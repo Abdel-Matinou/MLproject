@@ -1,3 +1,5 @@
 project-crab.ipynb
 RecommendationApp.ipynb
 .ipynb_checkpoints
+dataset/Matrix.json
+.DS_Store
