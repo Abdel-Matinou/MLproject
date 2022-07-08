@@ -1,0 +1,10 @@
+pandas
+matplotlib
+math
+scipy
+streamlit
+time
+datetime
+watchdog
+numpy
+random
